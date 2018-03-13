@@ -10,23 +10,24 @@ for(a=0;a<=n;a++)
 {
 if(n==a*a)
 {
-printf("yes");
+printf("no");
 return 0;
 }
 else
-printf("no");
+printf("yes");
 return 0;
 }
 for(b=0;b<=n;b++)
 {
 if(n==b*b)
 {
-printf("yes);
+printf("no");
 return 0;
 }
 else
 {
-printf("no");
+printf("yes");
 return 0;
+}
 }
 }
