@@ -18,3 +18,4 @@ odd=odd+digits;
 printf("\n odd digits number",odd,giv);
 }
 }
+}
