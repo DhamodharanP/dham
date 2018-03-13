@@ -22,7 +22,7 @@ for(b=0;b<=n;b++)
 if(n==b*b)
 {
 printf("yes);
-return0;
+return 0;
 }
 else
 {
