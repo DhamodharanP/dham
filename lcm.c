@@ -9,7 +9,7 @@ while(1)
 {
 if(minmultiple%a==0 &&minmultiple%b==0)
 {
-printf("LCM numbers",a,b,minmultiple);
+printf("LCM numbers%d,%d,%d",a,b,minmultiple);
 break;
 }
 ++minmultiple;
