@@ -15,10 +15,13 @@ if(n%2==0)
 {
  printf("yes");
 }
-else
+else if
 {
 printf("no");
 }
+else
+{
+printf("yes");
 }
 return 0;
 }
