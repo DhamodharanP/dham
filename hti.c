@@ -11,10 +11,10 @@ printf("%d",c);
 printf("%d",d);
 printf("%d",e);
 printf("%d",f):
-A=a\b;
+A=a/b;
 E=c%d;
-D=e\e;
-H=f\e;
+D=e/e;
+H=f%e;
 printf("%d",A);
 printf("%d",E);
 printf("%d",D);
